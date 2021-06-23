@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - KOCHI  || 23 Jun 2021 | 11:04:40 PM
+-------------------------------------------------------------
+Current temperature is: 23.99 deg C
+Current weather desc  : heavy intensity rain
+Current Humidity      : 87 %
+Current wind speed    : 3.61 kmph
